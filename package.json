@@ -1,6 +1,6 @@
 {
   "name": "guess-module",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Guess.js module for Nuxt.js",
   "license": "MIT",
   "contributors": [
