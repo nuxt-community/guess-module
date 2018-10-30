@@ -53,14 +53,14 @@ This module is inspired by [guest-nuxt][circle-ci-href] by @daliborgogic.
 Copyright (c) Clark Du <clark.duxin@gmail.com>
 
 <!-- Badges -->
-[david-dm-src]: https://david-dm.org/https://github.com/nuxt-community/guess-module/status.svg?style=flat-square
-[david-dm-href]: https://david-dm.org/https://github.com/nuxt-community/guess-module
+[david-dm-src]: https://david-dm.org/nuxt-community/guess-module/status.svg?style=flat-square
+[david-dm-href]: https://david-dm.org/nuxt-community/guess-module
 [standard-js-src]: https://img.shields.io/badge/code_style-standard-brightgreen.svg?style=flat-square
 [standard-js-href]: https://standardjs.com
-[circle-ci-src]: https://img.shields.io/circleci/project/github/https://github.com/nuxt-community/guess-module.svg?style=flat-square
-[circle-ci-href]: https://circleci.com/gh/https://github.com/nuxt-community/guess-module
-[codecov-src]: https://img.shields.io/codecov/c/github/https://github.com/nuxt-community/guess-module.svg?style=flat-square
-[codecov-href]: https://codecov.io/gh/https://github.com/nuxt-community/guess-module
+[circle-ci-src]: https://img.shields.io/circleci/project/github/nuxt-community/guess-module.svg?style=flat-square
+[circle-ci-href]: https://circleci.com/gh/nuxt-community/guess-module
+[codecov-src]: https://img.shields.io/codecov/c/github/nuxt-community/guess-module.svg?style=flat-square
+[codecov-href]: https://codecov.io/github/nuxt-community/guess-module
 [npm-version-src]: https://img.shields.io/npm/dt/@nuxtjs/guess.svg?style=flat-square
 [npm-version-href]: https://npmjs.com/package/@nuxtjs/guess
 [npm-downloads-src]: https://img.shields.io/npm/v/@nuxtjs/guess/latest.svg?style=flat-square
