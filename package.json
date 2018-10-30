@@ -1,0 +1,51 @@
+{
+  "name": "guess-module",
+  "version": "0.0.0",
+  "description": "Guess.js module for Nuxt.js",
+  "license": "MIT",
+  "contributors": [
+    {
+      "name": "Clark Du <clark.duxin@gmail.com>"
+    }
+  ],
+  "main": "lib/module.js",
+  "repository": "https://github.com/https://github.com/nuxt-community/guess-module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "dev": "nuxt example",
+    "lint": "eslint lib test",
+    "test": "npm run lint && jest",
+    "release": "standard-version && git push --follow-tags && npm publish"
+  },
+  "eslintIgnore": [
+    "lib/plugin.js"
+  ],
+  "files": [
+    "lib"
+  ],
+  "jest": {
+    "testEnvironment": "node",
+    "collectCoverage": true
+  },
+  "dependencies": {
+    "guess-webpack": "^0.1.6"
+  },
+  "devDependencies": {
+    "babel-eslint": "latest",
+    "codecov": "latest",
+    "eslint": "latest",
+    "eslint-config-standard": "latest",
+    "eslint-plugin-import": "latest",
+    "eslint-plugin-jest": "latest",
+    "eslint-plugin-node": "latest",
+    "eslint-plugin-promise": "latest",
+    "eslint-plugin-standard": "latest",
+    "eslint-plugin-vue": "latest",
+    "jest": "latest",
+    "jsdom": "latest",
+    "nuxt-edge": "latest",
+    "standard-version": "latest"
+  }
+}
