@@ -9,7 +9,7 @@
     }
   ],
   "main": "lib/module.js",
-  "repository": "https://github.com/https://github.com/nuxt-community/guess-module",
+  "repository": "https://github.com/nuxt-community/guess-module",
   "publishConfig": {
     "access": "public"
   },
