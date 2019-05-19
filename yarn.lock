@@ -4270,23 +4270,23 @@ gtoken@^2.3.0:
     mime "^2.2.0"
     pify "^3.0.0"
 
-guess-ga@^0.1.5:
-  version "0.1.5"
-  resolved "https://registry.yarnpkg.com/guess-ga/-/guess-ga-0.1.5.tgz#e74037ae08654ac5cad18605b6d2c5e1e202ee05"
-  integrity sha512-cEa11TAZAX/odoR3G0k4UdZSmwtdNz+8yMfHWZlm25FvDoac1T5QkUP6PU6EEB85JGUyPUswXg23E0fi7e3s/w==
+guess-ga@^0.2.0:
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/guess-ga/-/guess-ga-0.2.0.tgz#46623aa8b8b868dd30999f136971e0cf8a694e2d"
+  integrity sha512-21GHSpaCsnxAVVi23iytAi7x/8EAbeUnEnB1+PHeAip2q66KXtEqJNNxmxxDJwcaZ3zwxjr9vtze68egWowyhw==
   dependencies:
     googleapis "^26.0.1"
 
-guess-webpack@^0.1.6:
-  version "0.1.6"
-  resolved "https://registry.yarnpkg.com/guess-webpack/-/guess-webpack-0.1.6.tgz#ab5145259d2c789966b01f3b8025fd3281f072b1"
-  integrity sha512-J0plelSORUBt7CEELvWw6DQ+CuyrQpP40b0droxmierJIS5Ag21jL+HNC/OkeQIxnHcivEM/ZCB6tTbwWjZfuw==
+guess-webpack@^0.2.0:
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/guess-webpack/-/guess-webpack-0.2.0.tgz#28b206c3a169bdf2ada114aa5f0e8e036cd18e60"
+  integrity sha512-ggHIL/marPZUEscfOkib7zQk1HDm3bylrimjIu5AhAEdiT6kq+Z/q53ZazSFmCt7M9xjkzhnspQHNu52tODLrA==
   dependencies:
     copy-webpack-plugin "^4.5.1"
     flat-cache "^1.3.0"
     google-oauth2-node "0.0.2"
     googleapis "^29.0.0"
-    guess-ga "^0.1.5"
+    guess-ga "^0.2.0"
     lodash.template "^4.4.0"
     rollup "^0.59.4"
     rollup-plugin-hypothetical "^2.1.0"
