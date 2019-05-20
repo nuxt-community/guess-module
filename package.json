@@ -30,7 +30,7 @@
     "collectCoverage": true
   },
   "dependencies": {
-    "guess-webpack": "^0.1.6"
+    "guess-webpack": "^0.2.0"
   },
   "devDependencies": {
     "babel-eslint": "latest",
