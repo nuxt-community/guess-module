@@ -46,6 +46,12 @@ TODO:
 
 This module is inspired by [guest-nuxt][guess-nuxt-href] by @daliborgogic.
 
+## Links
+
+* [Google I/O announcement][guess-announcement-href] by Addy Osmani
+* [Introducing Guess.js - a toolkit for enabling data-driven user-experiences on the Web][guess-intro-href]
+* [Using Guess.js with Nuxt.js][use-guess-href]
+
 ## License
 
 [MIT License](./LICENSE)
@@ -69,3 +75,6 @@ Copyright (c) Clark Du <clark.duxin@gmail.com>
 [guess-webpack-href]: https://github.com/guess-js/guess/tree/master/packages/guess-webpack/#basic-usage
 [nuxt-rootDir-href]: https://nuxtjs.org/api/configuration-rootdir
 [nuxt-srcDir-href]: https://nuxtjs.org/api/configuration-srcdir
+[use-guess-href]: https://guess-js.github.io/docs/nuxt
+[guess-announcement-href]: https://www.youtube.com/watch?time_continue=2093&v=Mv-l3-tJgGk
+[guess-intro-href]: https://blog.mgechev.com/2018/05/09/introducing-guess-js-data-driven-user-experiences-web/
