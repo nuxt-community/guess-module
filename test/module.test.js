@@ -1,4 +1,4 @@
-const { Nuxt, Builder } = require('nuxt-edge')
+const { Nuxt, Builder } = require('nuxt')
 const request = require('request-promise-native')
 
 const config = require('../example/nuxt.config')
@@ -21,7 +21,7 @@ describe('basic', () => {
   })
 
   test('render', async () => {
-    let html = await get('/')
+    const html = await get('/')
     expect(html).toContain('🏠This is home page')
   })
 })
