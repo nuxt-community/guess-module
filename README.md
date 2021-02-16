@@ -2,7 +2,7 @@
 
 [![David-DM][david-dm-src]][david-dm-href]
 [![Standard JS][standard-js-src]][standard-js-href]
-[![Circle CI][circle-ci-src]][circle-ci-href]
+[![Github Actions][github-actions-src]][github-actions-href]
 [![Codecov][codecov-src]][codecov-href]
 [![npm version][npm-version-src]][npm-version-href]
 [![npm downloads][npm-downloads-src]][npm-downloads-href]
@@ -63,8 +63,8 @@ Copyright (c) Clark Du <clark.duxin@gmail.com>
 [david-dm-href]: https://david-dm.org/nuxt-community/guess-module
 [standard-js-src]: https://img.shields.io/badge/code_style-standard-brightgreen.svg?style=flat-square
 [standard-js-href]: https://standardjs.com
-[circle-ci-src]: https://img.shields.io/circleci/project/github/nuxt-community/guess-module.svg?style=flat-square
-[circle-ci-href]: https://circleci.com/gh/nuxt-community/guess-module
+[github-actions-src]: https://github.com/nuxt-community/guess-module/workflows/ci/badge.svg
+[github-actions-href]: https://github.com/nuxt-community/guess-module/actions
 [codecov-src]: https://img.shields.io/codecov/c/github/nuxt-community/guess-module.svg?style=flat-square
 [codecov-href]: https://codecov.io/github/nuxt-community/guess-module
 [npm-version-src]: https://img.shields.io/npm/dt/@nuxtjs/guess.svg?style=flat-square
