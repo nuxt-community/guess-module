@@ -17,8 +17,8 @@ TODO:
 
 ## Setup
 
-- Add `@nuxtjs/guess` dependency using yarn or npm to your project
-- Add `@nuxtjs/guess` to `modules` section of `nuxt.config.js`
+- Add `@nuxtjs/guess-module` dependency using yarn or npm to your project
+- Add `@nuxtjs/guess-module` to `modules` section of `nuxt.config.js`
 - Config 'options' as `options` of [guess-webpack][guess-webpack-href]
 - Note: the default `reportProvider` when there is no `GA` and `reportProvider` specifed is the content of `router.json` under [`rootDir`][nuxt-rootDir-href] or [`srcDir`][nuxt-srcDir-href]
 
@@ -26,10 +26,10 @@ TODO:
 {
   modules: [
     // Simple usage
-    '@nuxtjs/guess',
+    '@nuxtjs/guess-module',
 
     // With options
-    ['@nuxtjs/guess', {
+    ['@nuxtjs/guess-module', {
       GA: 'XXXXXX'
     }],
  ]
@@ -67,10 +67,10 @@ Copyright (c) Clark Du <clark.duxin@gmail.com>
 [github-actions-href]: https://github.com/nuxt-community/guess-module/actions
 [codecov-src]: https://img.shields.io/codecov/c/github/nuxt-community/guess-module.svg?style=flat-square
 [codecov-href]: https://codecov.io/github/nuxt-community/guess-module
-[npm-version-src]: https://img.shields.io/npm/dt/@nuxtjs/guess.svg?style=flat-square
-[npm-version-href]: https://npmjs.com/package/@nuxtjs/guess
-[npm-downloads-src]: https://img.shields.io/npm/v/@nuxtjs/guess/latest.svg?style=flat-square
-[npm-downloads-href]: https://npmjs.com/package/@nuxtjs/guess
+[npm-version-src]: https://img.shields.io/npm/dt/@nuxtjs/guess-module.svg?style=flat-square
+[npm-version-href]: https://npmjs.com/package/@nuxtjs/guess-module
+[npm-downloads-src]: https://img.shields.io/npm/v/@nuxtjs/guess-module/latest.svg?style=flat-square
+[npm-downloads-href]: https://npmjs.com/package/@nuxtjs/guess-module
 [guess-nuxt-href]: https://github.com/daliborgogic/guess-nuxt
 [guess-webpack-href]: https://github.com/guess-js/guess/tree/master/packages/guess-webpack/#basic-usage
 [nuxt-rootDir-href]: https://nuxtjs.org/api/configuration-rootdir
