@@ -44,7 +44,7 @@ TODO:
 
 ## Credits
 
-This module is inspired by [guest-nuxt][circle-ci-href] by @daliborgogic.
+This module is inspired by [guest-nuxt][guess-nuxt-href] by @daliborgogic.
 
 ## License
 
