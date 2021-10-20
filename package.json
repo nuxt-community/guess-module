@@ -38,7 +38,7 @@
     "codecov": "3.8.1",
     "eslint": "7.21.0",
     "jest": "26.6.3",
-    "nuxt": "2.15.3",
+    "nuxt": "2.15.8",
     "standard-version": "9.1.1"
   }
 }
