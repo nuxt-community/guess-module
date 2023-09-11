@@ -7,7 +7,7 @@
 [![npm version][npm-version-src]][npm-version-href]
 [![npm downloads][npm-downloads-src]][npm-downloads-href]
 
-> Guess.js module for Nuxt.js
+> Guess.js module for Nuxt 2
 
 [📖 **Release Notes**](./CHANGELOG.md)
 
