@@ -1,3 +1,6 @@
+> [!NOTE]
+> This repository is archived. `@nuxtjs/guess-module` was built for Nuxt 2, which reached end of life on June 30, 2024.
+
 # guess-module
 
 [![David-DM][david-dm-src]][david-dm-href]
